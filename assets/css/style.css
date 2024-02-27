@@ -1,0 +1,9 @@
+:root {
+    --navbarHeight: 80px;
+    --textColorLight: #fff;
+    --textColorDark: #000;
+}
+
+#navbar {
+    height: var(--navbarHeight);
+}
